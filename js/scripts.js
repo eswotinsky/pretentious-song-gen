@@ -11,14 +11,15 @@ function randWord(list) {
 
 
 //list of proper names
-var name = ["Apollo", "Athena", "Beethoven", "Chopin", "Daedalus", "Gaia", "Homer", "Icarus", "Maui", "Odin", "Persephone", "Ulysses", "Zarathustra", "Zeus"];
+var name = ["Apollo", "Athena", "Atlas", "Beethoven", "Chopin", "Daedalus", "Gaia", "Homer", "Icarus", "Markov", "Maui", "Odin", "Persephone", "Perseus", "Triton", "Ulysses", "Zarathustra", "Zeus"];
 
 
 //list of nouns
-var noun = ["Advent", "Conundrum", "Denouement", "Ennui", "Folly", "Gambit", "Lament", "Paradigm", "Quorum", "Stratagem", "Vision"];
+var noun = ["Advent", "Conundrum", "Denouement", "Discord", "Ennui", "Euphoria", "Folly", "Gambit", "Lament", "Pact", "Paradigm", "Quorum", "Refuge", "Sanctum", "Shackles", "Stratagem", "Strife", "Unity", "Vision"];
 
-})
 
 
 //list of adjectives
 var adj = ["fecund", "luminous", "verdant"];
+
+})
